@@ -82,3 +82,15 @@ footer {
 hr {
   border: 1px solid black;
 }
+
+.flex { display: flex;
+
+}
+
+.leftline {text-align: left;}
+
+.centerline {text-align: center;}
+/* Other page elements */
+hr {
+  border: 1px solid black;
+}
